@@ -1,9 +1,10 @@
 # E-commerce
  E-commerce website Project Source Code
-
+ 
+ See Live- https://rishigole42.github.io/E-commerce/
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/rishigole42/E-commerce/master/demo.png" width="100%" height="100%>">
+<img src="https://raw.githubusercontent.com/rishigole42/E-commerce/master/demo.png" width="50%" height="30%>">
 </p>
 
 
